@@ -5,7 +5,9 @@ public class Hello{
 		System.out.println("从master上面修改");
 		System.out.println("从master上面修改");
 		System.out.println("从master上面修改");
-
+		System.out.println("分支上面修改");
+		System.out.println("分支上面修改");
+		System.out.println("分支上面修改");
 	}
 }
 
